@@ -114,3 +114,5 @@ You are all set to build the application. Incase, you are running **Netbeans**, 
 Once completed, you'll have a target folder in your source repository. Pull up the jar that says`...-with-dependencies to the root folder` and run it.
 
 You will need to create your own `audio/` and `images/` directory to provide some necessary resources now. 
+
+**Credits and footnotes**: The solution was developed as a quick hack and resources used were usually on free tier. In order to scale up, the solution will require additional resources in terms of accessing various APIs. I would also like to thank [@lzane](https://github.com/lzane/) for the concise gesture detection algorithm [here](https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python). Make sure, you check that as well.
